@@ -2,9 +2,9 @@ import motor.motor_asyncio as motor
 import asyncio
 import traceback
 
-USER = ""
-PASSWORD = ''
-uri = "mongodb+srv://{}:{}@cluster0.bixinbf.mongodb.net/?retryWrites=true&w=majority".format(USER, PASSWORD)
+USER = "XXXXXXXX"
+PASSWORD = 'XXXXXXXX'
+uri = 'XXXXXXXX'
 DATABASE = 'field'
 COLLECTION = 'species'
 
